@@ -1,0 +1,4 @@
+python-more-itertools source: no-debian-changes
+python-more-itertools source: source-contains-prebuilt-windows-binary
+python-more-itertools source: source-is-missing
+python-more-itertools source: source-package-encodes-python-version

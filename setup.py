@@ -26,7 +26,7 @@ def get_long_description():
 
 setup(
     name='more-itertools',
-    version=__version__,
+    version='8.12.0',
     description='More routines for operating on iterables, beyond itertools',
     long_description=get_long_description(),
     long_description_content_type='text/x-rst',
