@@ -39,3 +39,5 @@ venv/
 # Mypy
 .mypy_cache
 .dmypy.json
+
+.pybuild/
